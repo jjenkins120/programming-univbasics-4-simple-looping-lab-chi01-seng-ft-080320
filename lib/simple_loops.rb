@@ -11,4 +11,4 @@ end
 
 def loop_message_n_times(message, 5)
   count = 0 
-  while count
+  while count <= 5
