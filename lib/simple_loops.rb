@@ -4,7 +4,7 @@
 def loop_message_five_times(message)
   counter = 0 
   while message(counter) do 
-  puts message  
+  puts #{message}  
   counter += 5
   end
 end 
